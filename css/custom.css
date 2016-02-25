@@ -8,14 +8,14 @@ body {
   font-family: arial;
   border: 5px groove #666666;
   padding: 20px 60px;
-  width: 275px;
+  width: 400px;
 
 }
 
 .box{
   border: 2px groove #808080;
   padding: 20px;
-  width: 275px;
+  width: 400px;
   margin: 10px, 40px, 10px, 100px;
 }
 
