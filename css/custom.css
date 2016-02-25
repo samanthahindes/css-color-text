@@ -26,7 +26,7 @@ h2{
 }
 
 a.link{
-  color: deeppink;
+  color: #ff00ff;
   text-decoration: none;
 }
 
@@ -39,5 +39,5 @@ a.hover{
 }
 
 a."read-more"{
-  color: yellow;
+  color: #99ff66;
 }
