@@ -16,4 +16,11 @@ div{
   border: 2px groove #808080;
   padding: 20 px;
   width: 275 px;
+  margin:10 px, 40 px, 10 px, 100 px;
+}
+
+h2{
+  font-family: Georgia, Times, serif;
+  font-size: 90%;
+  
 }
