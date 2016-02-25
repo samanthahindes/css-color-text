@@ -25,19 +25,19 @@ h2{
   
 }
 
-a.link{
+a:link{
   color: #ff00ff;
   text-decoration: none;
 }
 
-a.visited{
+a:visited{
   color: black;
 }
 
-a.hover{
+a:hover{
   text-decoration: underline;
 }
 
-a."read-more"{
+a.read-more{
   color: #99ff66;
 }
