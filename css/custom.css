@@ -12,6 +12,8 @@ body {
 
 }
 
-.box{
-  background-color: yellow;
+div{
+  border: 2px groove #808080;
+  padding: 20 px;
+  width: 275 px;
 }
