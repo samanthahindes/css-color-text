@@ -24,3 +24,12 @@ h2{
   font-size: 90%;
   
 }
+
+a:link{
+  color: deeppink;
+  text-decoration: none;
+}
+
+a.visited{
+  color: black;
+}
