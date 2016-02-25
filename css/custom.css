@@ -1,10 +1,10 @@
 * {
   box-sizing: border-box; }
 
+/*insert custom css below*/
+
 body {
-  background-color: #a6a6a6
+  background-color: #a6a6a6;
   font-family: arial;
 }
 
-
-/*insert custom css below*/
