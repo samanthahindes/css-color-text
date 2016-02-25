@@ -1,4 +1,16 @@
 * {
   box-sizing: border-box; }
 
+body {
+  background-color: #d1d1e0
+  padding: 0 1rem;
+  margin: 0;
+  font-family: arial;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #606c71;
+  text-align: center;
+}
+
+
 /*insert custom css below*/
